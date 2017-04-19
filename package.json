@@ -1,0 +1,24 @@
+{
+  "name": "tcp_server",
+  "version": "1.0.0",
+  "description": "tcp sever connection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaviJaisawal/TCP-Servers.git"
+  },
+  "author": "ravi jaisawal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaviJaisawal/TCP-Servers/issues"
+  },
+  "homepage": "https://github.com/RaviJaisawal/TCP-Servers#readme",
+  "dependencies": {
+    "split2": "^2.1.1",
+    "stream-combiner2": "^1.1.1",
+    "through2": "^2.0.3"
+  }
+}
